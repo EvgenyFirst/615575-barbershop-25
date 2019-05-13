@@ -2,7 +2,7 @@
 
 * Студент: [Евгений Чиликов](https://up.htmlacademy.ru/htmlcss/25/user/615575).
 
----
+----
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
